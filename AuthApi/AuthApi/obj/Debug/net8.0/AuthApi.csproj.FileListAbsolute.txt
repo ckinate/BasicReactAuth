@@ -150,3 +150,4 @@ C:\AllFiles\Christian\Christian\Authentification\AuthApi\AuthApi\obj\Debug\net8.
 C:\AllFiles\Christian\Christian\Authentification\AuthApi\AuthApi\obj\Debug\net8.0\AuthApi.pdb
 C:\AllFiles\Christian\Christian\Authentification\AuthApi\AuthApi\obj\Debug\net8.0\AuthApi.genruntimeconfig.cache
 C:\AllFiles\Christian\Christian\Authentification\AuthApi\AuthApi\obj\Debug\net8.0\ref\AuthApi.dll
+C:\AllFiles\Christian\Christian\Authentification\AuthApi\AuthApi\obj\Debug\net8.0\AuthApi.sourcelink.json

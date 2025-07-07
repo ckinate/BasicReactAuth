@@ -32,7 +32,7 @@ builder.Services.ConfigureApplicationCookie(options =>
 {
     options.Cookie.Name = "MyApp.AuthCookie";
     options.Cookie.HttpOnly = true;
-    options.Cookie.SameSite = SameSiteMode.Lax;
+    options.Cookie.SameSite = SameSiteMode.None;
     options.Cookie.SecurePolicy = CookieSecurePolicy.Always;
 
     options.Events.OnRedirectToLogin = context =>
